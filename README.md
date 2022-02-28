@@ -1,4 +1,4 @@
-To start the program, navigate to the correct directory (client or server). Once there, type make and you will be given either a server executable or client executable pending which directory you are in.
+To start the program, navigate to the correct directory (client or server). Once there, type make and you will be given either a server executable or client executable pending which directory you are in. I have included an executable as well within each respective directory. 
 
 First run the server, by typing ./server <listening_port_number>
 
